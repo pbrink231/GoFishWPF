@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishWPF", "GoFishWPF\GoFishWPF.csproj", "{1A027A86-CED7-4D0A-A67D-A1810A683376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLib", "CardLib\CardLib.csproj", "{88EDA87C-9989-4A97-924F-0FE7125DF8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A027A86-CED7-4D0A-A67D-A1810A683376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A027A86-CED7-4D0A-A67D-A1810A683376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A027A86-CED7-4D0A-A67D-A1810A683376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A027A86-CED7-4D0A-A67D-A1810A683376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EDA87C-9989-4A97-924F-0FE7125DF8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EDA87C-9989-4A97-924F-0FE7125DF8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EDA87C-9989-4A97-924F-0FE7125DF8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EDA87C-9989-4A97-924F-0FE7125DF8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
